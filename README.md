@@ -3,6 +3,9 @@ A vision-based real-time hand gesture system enables personalized, touchless vol
 
 **OVERVIEW** : This project presents an intelligent vision-based real-time hand gesture recognition system that enables users to control volume levels using natural hand gestures eliminating the need for physical interaction. The system uses computer vision and deep learning techniques to recognize specific hand movements and adjusts volume dynamically in response. It is designed to be personalized, intuitive, and touchless, ensuring a hygienic and futuristic user experience.
 
+<img width="497" height="211" alt="image" src="https://github.com/user-attachments/assets/326d4159-bdec-4dfa-8186-318b26a5c4fd" />
+
+
 **OBJECIVE** : The aim of this project is to provide a touchless, intuitive, and interactive user interface that improves human-computer interaction by replacing traditional volume control mechanisms with hand gestures.
 
 **HOW IT WORKS** : 
