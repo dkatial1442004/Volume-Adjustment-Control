@@ -22,16 +22,6 @@ A vision-based real-time hand gesture system enables personalized, touchless vol
 
 **HOW TO RUN THE RPOJECT:**
 
-🔧**Requirements**:
-Python 3.x
-
-OpenCV
-
-MediaPipe
-
-PyCaw
-
-NumPy
 **Install Dependencies:**
 pip install opencv-python mediapipe pycaw numpy
 
